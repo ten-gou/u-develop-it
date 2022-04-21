@@ -15,5 +15,8 @@
 // alters a preexisting table
 // ALTER TABLE <table> ADD COLUMN <column name> INTEGER;
 
+// imports data from one table to another
+// left join, inner join, right join, full outer join
+
 // deletes a table/database
 // DROP DATABASE/TABLE <name of table/database>;
