@@ -20,3 +20,6 @@
 
 // deletes a table/database
 // DROP DATABASE/TABLE <name of table/database>;
+
+// tallies votes within the votes table
+// SELECT COUNT(candidate_id) FROM votes GROUP BY candidate_id;
